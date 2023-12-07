@@ -15,6 +15,10 @@ puedes acceder a estas funciones desde
 
 -http://localhost:4567/VerMultas
 
+-http://localhost:4567/VerCopias
+
+-http://localhost:4567/VerLectores
+
 
 Para el registro de copias es necesario el numero identificador y su estado (disponible, no disponible).
 
