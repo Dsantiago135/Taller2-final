@@ -5,7 +5,7 @@ puedes acceder a estas funciones desde
 
 -http://localhost:4567/CargarDatos 
 
--http://localhost:4567/RegistrarCopia/28/Disponible
+-http://localhost:4567/RegistrarCopia/28/Disponible/Spiderman
 
 -http://localhost:4567/RegistrarLector/2463/Pedro/Hernandez/cr24n56
 
