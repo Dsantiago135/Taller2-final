@@ -9,9 +9,9 @@ puedes acceder a estas funciones desde
 
 -http://localhost:4567/RegistrarLector/2463/Pedro/Hernandez/cr24n56
 
--http://localhost:4567/PrestarLibro/102/34
+-http://localhost:4567/PrestarLibro/2463/28
 
--http://localhost:4567/DevolverLibro/102/34
+-http://localhost:4567/DevolverLibro/2463/28
 
 -http://localhost:4567/VerMultas
 
