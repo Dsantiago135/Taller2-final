@@ -27,3 +27,5 @@ Para el registro de lectores es necesario un numero de socio, su nombre, su apel
 Para el prestamo y devolucion de libros se necesita proporcionar 2 datos el numero de socio del lector y el numero de identificacion de la copia a prestar.
 
 La generacion de la multa se hace automaticamente tomando la hora del dispositivo.
+
+El programa ya trae 2 lectores y 2 libros cargados por defecto.
